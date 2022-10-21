@@ -13,6 +13,12 @@ https://github.com/RrLSn/tributepage.git
 - HTML
 - CSS
 
+# Demo
+[preview](https://gleeful-kashata-4e5265.netlify.app/)
+
+
+
+
 # Contact
 If you want to contact me, you can reach me at 
 - afolabisoditemitope@yahoo.com or 
