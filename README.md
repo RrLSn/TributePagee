@@ -16,7 +16,7 @@ https://github.com/RrLSn/tributepage.git
 # Demo
 [preview](https://gleeful-kashata-4e5265.netlify.app/)
 
-
+![screenshot](./media/Screenshot%202022-10-21%20161031.png)
 
 
 # Contact
