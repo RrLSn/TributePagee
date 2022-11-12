@@ -124,9 +124,9 @@ li{
        }
 
        .title{
+        width: 100%;
         font-size: 2rem;
         margin-bottom: 1rem;
-        width: 100%;
        }
 
        .img-caption{
