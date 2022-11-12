@@ -14,8 +14,7 @@ https://github.com/RrLSn/tributepage.git
 - CSS
 
 # Demo
-[preview](https://gleeful-kashata-4e5265.netlify.app/)
-
+[preview](https://rawcdn.githack.com/RrLSn/tributepage/58dffd527b1574e51be7b6aba13c66d3190dae2b/index.html)
 ![screenshot](./media/Screenshot%202022-10-21%20161031.png)
 
 
